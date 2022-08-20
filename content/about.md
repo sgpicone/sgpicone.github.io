@@ -1,11 +1,12 @@
 ---
-title: "About"
+title: "About Me"
 date: 2022-08-13T13:49:36-04:00
-draft: true
 ---
 
-# Wow.
+## Wow.
 
-## Look at you.
+### Look at you.
 
 Here you are.
+
+Here's a little bit about myself: `1`

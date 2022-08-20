@@ -12,14 +12,14 @@ params:
     profileMode:
         enabled: true
         title: They Call Me _Mr. Honk_ # optional default will be site title
-        subtitle: "Welcome to my world"
+        subtitle: "Welcome to my world. I don't do very much."
         imageUrl: "./goose.png" # optional
         imageTitle: Honk # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
         buttons:
           - name: About Me
-            url: /resume
+            url: /about
           - name: My Work
             url: /projects
           - name: Github
@@ -33,6 +33,10 @@ params:
 
 menu:
   main:
+    - identifier: about
+      name: about
+      url: /about
+      weight: 5
     - identifier: resume
       name: resume
       url: /resume

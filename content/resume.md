@@ -1,17 +1,19 @@
 ---
-title: About Me
+title: Resume
 ---
 
 ## Work Experience
 
-- Elsevier
-- L3
-- All Current
-- Rowan University
+- Elsevier (2019 - {CURRENT_YEAR})
+- L-3 Communications (2013 - 2019)
+  - AKA L3 Technologies
+  - AKA L3 Harris
+- All Current Electrical Sales (2012 - 2013)
+- Rowan University (2011 - 2013)
 
 ## Education
 
-- Rowan University
+- Rowan University (2013)
   - BSc CS
   - BA Mathematics
 
