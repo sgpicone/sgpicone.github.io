@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sgpicone.github.io/sitemap.xml
