@@ -1,0 +1,55 @@
+baseURL: https://sgpicone.github.io/
+languageCode: en-us
+title: The Goose is Loose
+theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+params:
+    profileMode:
+        enabled: true
+        title: They Call Me _Mr. Honk_ # optional default will be site title
+        subtitle: "Welcome to my world"
+        imageUrl: "./goose.png" # optional
+        imageTitle: Honk # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        buttons:
+          - name: About Me
+            url: /resume
+          - name: My Work
+            url: /projects
+          - name: Github
+            url: "https://github.com/sgpicone"
+
+    socialIcons: 
+        - name: github
+          url: https://github.com/sgpicone
+        - name: twitter
+          url: https://twitter.com/spippypippy
+
+menu:
+  main:
+    - identifier: resume
+      name: resume
+      url: /resume
+      weight: 10
+    - identifier: projects
+      name: projects
+      url: /projects/
+      weight: 20
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 30
+    - identifier: gallery
+      name: gallery
+      url: /gallery/
+      weight: 40
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 50
