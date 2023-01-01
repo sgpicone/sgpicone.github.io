@@ -30,6 +30,8 @@ params:
           url: https://github.com/sgpicone
         - name: twitter
           url: https://twitter.com/spippypippy
+    customCss: ["css/extravajamza.css"]
+    
 
 menu:
   main:
