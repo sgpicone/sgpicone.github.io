@@ -1,0 +1,83 @@
+div.post-content:has(> .welf-container) {
+    background-image: linear-gradient(to bottom, #ffffffdd, #ffffffdd), url("./extravajamza-bg.jpg") !important;
+    background-size: cover !important;
+    color: #333;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    width: 1080px;
+    margin-left: -12rem;
+}
+
+div.post-content:has(> .welf-container)::before {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+}
+
+.welf-container {
+    max-width: 1080px;
+    margin: 0 auto;
+    color: #333;
+}
+
+.welf-container h1,
+.welf-container h2,
+.welf-container h3,
+.welf-container p,
+.welf-container a {
+    color: #333;
+}
+
+.welf-container .italic {
+    font-style: italic;
+}
+
+.welf-container .footer {
+    text-align: center;
+    padding: 1rem;
+    color: #333;
+    font-size: small;
+}
+
+.welf-container .centered {
+    text-align: center;
+}
+
+.welf-container table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.welf-container table,
+.welf-container th,
+.welf-container td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.welf-container tr:nth-child(even) {
+    background-color: #1FD53766;
+}
+
+.welf-container tr:hover:nth-child(even) {
+    background-color: #00B32C;
+    color: #f7f7f7
+}
+
+.welf-container tr:nth-child(odd) {
+    background-color: #E4001066;
+}
+
+.welf-container tr:hover:nth-child(odd) {
+    background-color: #B3000C;
+    color: #f7f7f7
+}
+
+.welf-container th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #00B32C;
+    color: #f7f7f7;
+}
