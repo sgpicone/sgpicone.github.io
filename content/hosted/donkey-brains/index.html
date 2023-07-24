@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Certificate Generator</title>
+</head>
+
+<body class="container">
+    <div class="form_area">
+        <h4 class="title">Configure Certificate</h4>
+        <form id="configurationForm">
+            <div class="row">
+                <div class="column">
+                    <div class="form_group">
+                        <label for="name" class="sub_title">Your Name:</label>
+                        <input type="text" name="name" class="form_style" />
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="form_group">
+                        <label for="institution" class="sub_title">Institution:</label>
+                        <input type="text" name="institution" class="form_style" />
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="column">
+                    <div class="form_group">
+                        <label for="affliction" class="sub_title">Affliction:</label>
+                        <input type="text" name="affliction" class="form_style" />
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="form_group">
+                        <label for="state" class="sub_title">State:</label>
+                        <input type="text" name="state" class="form_style" />
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="column">
+                    <div class="form_group">
+                        <label for="signatureOneName" class="sub_title">First Signature Name:</label>
+                        <input type="text" name="signatureOneName" class="form_style" />
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="form_group">
+                        <label for="signatureTwoPosition" class="sub_title">Second Signature Occupation:</label>
+                        <input type="text" name="signatureTwoPosition" class="form_style" />
+                    </div>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="column">
+                    <div class="form_group">
+                        <label for="signatureOnePosition" class="sub_title">First Signature Occupation:</label>
+                        <input type="text" name="signatureOnePosition" class="form_style" />
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="form_group">
+                        <label for="signatureTwoName" class="sub_title">Second Signature Name:</label>
+                        <input type="text" name="signatureTwoName" class="form_style" />
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="column">
+                    <div class="form_group checkbox-wrapper-32">
+                        <label for="includeSeal" class="sub_title">Include Seal</label>
+                        <input type="checkbox" name="includeSeal" class="form_style" />
+                        <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M 10 10 L 90 90" stroke="#000" stroke-dasharray="113" stroke-dashoffset="113">
+                            </path>
+                            <path d="M 90 10 L 10 90" stroke="#000" stroke-dasharray="113" stroke-dashoffset="113">
+                            </path>
+                        </svg>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="form_group checkbox-wrapper-32">
+                        <label for="includeTexture" class="sub_title">Include Texture</label>
+                        <input type="checkbox" name="includeTexture" class="form_style" />
+                        <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M 10 10 L 90 90" stroke="#000" stroke-dasharray="113" stroke-dashoffset="113">
+                            </path>
+                            <path d="M 90 10 L 10 90" stroke="#000" stroke-dasharray="113" stroke-dashoffset="113">
+                            </path>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+
+
+        </form>
+        <button type="button" class="btn" onclick="createCertificate()">Generate!</button>
+
+    </div>
+</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+<script src="generatorScript.js"></script>
+<script>
+    const form = document.forms[0];
+
+    function updateConfig() {
+        const config = {
+            name: form.elements.name.value,
+            institution: form.elements.institution.value,
+            affliction: form.elements.affliction.value,
+            state: form.elements.state.value,
+            includeSeal: form.elements.includeSeal.checked,
+            includeTexture: form.elements.includeTexture.checked,
+            signatureOne: {
+                name: form.elements.signatureOneName.value,
+                position: form.elements.signatureOnePosition.value
+            },
+            signatureTwo: {
+                name: form.elements.signatureTwoName.value,
+                position: form.elements.signatureTwoPosition.value
+            },
+        };
+        return config;
+    }
+
+    function createCertificate() {
+        const config = updateConfig();
+        saveCertificate(config);
+    }
+
+    function initForm() {
+        form.elements.name.value = defaultConfig.name;
+        form.elements.institution.value = defaultConfig.institution;
+        form.elements.affliction.value = defaultConfig.affliction;
+        form.elements.state.value = defaultConfig.state;
+        form.elements.includeSeal.checked = defaultConfig.includeSeal;
+        form.elements.includeTexture.checked = defaultConfig.includeTexture;
+        form.elements.signatureOneName.value = defaultConfig.signatureOne.name;
+        form.elements.signatureOnePosition.value = defaultConfig.signatureOne.position;
+        form.elements.signatureTwoName.value = defaultConfig.signatureTwo.name;
+        form.elements.signatureTwoPosition.value = defaultConfig.signatureTwo.position;
+    }
+
+    initForm();
+</script>
+
+</html>
