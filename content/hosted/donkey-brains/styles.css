@@ -48,6 +48,10 @@ p.explain {
     width: 80%;
 }
 
+ul {
+    list-style-type: none;
+}
+
 .form_area {
     display: flex;
     justify-content: center;
