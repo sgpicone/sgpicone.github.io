@@ -3,6 +3,8 @@ title: "2023 Holiday ExtravaJAMza"
 draft: false
 ---
 
+{{% center %}}
+
 ### 106.7 W-ELF FM presents
 
 ## The 2023 Holiday ExtravaJAMza
@@ -15,3 +17,5 @@ Listen with one of the links below!
 - [Download show (.mp3)](https://www.dropbox.com/scl/fi/5boe0svcvlt59npx7dqdd/Holiday-ExtravaJamZa-2023.mp3?rlkey=mb83pd2dcgp4egi11s2akkwwx&dl=0)
 - [Download show + all of its tracks (.zip)](https://www.dropbox.com/scl/fi/0jwhd6nqlicn475y3v3ad/2023-Holiday-ExtravaJAMza.zip?rlkey=6sk399t5ton7ubx8sd57bj2fz&dl=0)
 - [Skip the show - just listen to the tracks on YouTube](https://www.youtube.com/playlist?list=PL8pWTGZUw2a5VzvUIRbSpta7KvqrfwWAV)
+
+{{% /center %}}
