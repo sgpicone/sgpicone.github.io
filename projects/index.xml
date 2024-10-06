@@ -1,3 +1,219 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Projects on The Goose is Loose</title><link>https://sgpicone.github.io/projects/</link><description>Recent content in Projects on The Goose is Loose</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://sgpicone.github.io/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>2022 Holiday ExtravaJAMza</title><link>https://sgpicone.github.io/projects/extravajamza-2022/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sgpicone.github.io/projects/extravajamza-2022/</guid><description>106.7 W-ELF FM Presents... The 2022 Holiday ExtravaJAMza Click the link below to download the show and all of its tracks! Download Show + Tracks Click one of the links below to download just the show! Listen on your favorite device! Download Show (Chapterized - for Podcast apps) Download Show (.mp3) The Songs Track Title Artist Album Length Listen 01 Christmas in Hollis Run-D.M.C. A Very Special Christmas 3:00 🎶 02 I Want an Alien for Christmas Fountains of Wayne Out-of-State Plates 2:19 🎶 03 Nuttin' For Christmas Smash Mouth &amp; Rosie O'Donnell Another Rosie Christmas 2:40 🎶 04 Snow Takashi Toyoda Kankyō Ongaku: Japanese Ambient, Environmental &amp; New Age Music 1980 -1990 5:00 🎶 05 Ebenezer's Carol The Men That Will Not Be Blamed For Nothing A Very Steampunk Christmas 3:00 🎶 06 Santa's A Fat Bitch Insane Clown Posse A Carnival Christmas EP 4:22 🎶 07 Feliz Navidad Los Straitjackets 'Tis the Season for Los Straitjackets 3:10 🎶 08 Auld Lang Syne Girlschool Christmas in Hell 3:21 🎶 09 A Sprig Of Holly On The Electric Turbine Butcher Claus Whine and Missingtoe 1:35 🎶 10 Merry Christmas From The Family Robert Earl Keen Gringo Honeymoon 4:48 🎶 11 Home Alone Theme August Burns Red Christmas in Hell 3:48 🎶 12 Joel The Lump Of Coal The Killers Don't Waste Your Wishes 3:59 🎶 13 Good Night SergeQuadrado Freesound.</description></item><item><title>2023 Holiday ExtravaJAMza</title><link>https://sgpicone.github.io/projects/extravajamza-2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sgpicone.github.io/projects/extravajamza-2023/</guid><description>106.7 W-ELF FM presents The 2023 Holiday ExtravaJAMza Celebrate the holidays with 106.7 W-ELF FM, the North Pole&amp;rsquo;s hottest radio station!
-Listen with one of the links below!
-Download show (Chapterized - for podcast apps) Download show (.mp3) Stream on Soundcloud Skip the show - just listen to the tracks on YouTube</description></item><item><title>Alodzuden</title><link>https://sgpicone.github.io/projects/df_journal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sgpicone.github.io/projects/df_journal/</guid><description>A command line microjournaling app inspired by Dwarf Fortress</description></item><item><title>Donkey Brains Certificate Generator</title><link>https://sgpicone.github.io/projects/donkey-brains/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sgpicone.github.io/projects/donkey-brains/</guid><description>A FREE custom certificate generator to exonerate you of all donkey brains.</description></item><item><title>Modifed US Level</title><link>https://sgpicone.github.io/projects/us-level/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sgpicone.github.io/projects/us-level/</guid><description>A modified version of the US Level developed by Tenpages</description></item><item><title>Slightly Ridiculous Bash Aliases</title><link>https://sgpicone.github.io/projects/bashaliases/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sgpicone.github.io/projects/bashaliases/</guid><description>My slightly absurd bash_aliases file</description></item><item><title>VS Code Journal Workspace</title><link>https://sgpicone.github.io/projects/vscodejournal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sgpicone.github.io/projects/vscodejournal/</guid><description>A workspace template for VS Code to facilitate daily journaling.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Projects on The Goose is Loose</title><link>https://sgpicone.github.io/projects/</link><description>Recent content in Projects on The Goose is Loose</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://sgpicone.github.io/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>2022 Holiday ExtravaJAMza</title><link>https://sgpicone.github.io/projects/extravajamza-2022/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sgpicone.github.io/projects/extravajamza-2022/</guid><description>&lt;div class="welf-container">
+&lt;h3 class="centered italic">106.7 W-ELF FM Presents...&lt;/h3>
+&lt;h1 class="centered">The 2022 Holiday ExtravaJAMza&lt;/h1>
+&lt;p class="centered">
+Click the link below to download the show and all of its tracks!
+&lt;/p>
+&lt;p class="centered">
+&lt;a href="https://www.dropbox.com/s/u6yqy31b6x9egss/Holiday%20ExtravaJAMza%202022.zip?dl=0"
+target="_blank">Download Show + Tracks&lt;/a>
+&lt;/p>
+&lt;hr />
+&lt;p class="centered">
+Click one of the links below to download just the show! Listen on your favorite device!
+&lt;/p>
+&lt;p class="centered">
+&lt;a href="https://www.dropbox.com/s/mrz8yyo56ao35xl/Holiday%20ExtravaJamZa%202022%20%28Chapterized%29.m4b?dl=0"
+target="_blank">Download Show (Chapterized - for Podcast apps)&lt;/a>
+&lt;/p>
+&lt;p class="centered">
+&lt;a href="https://www.dropbox.com/s/mip7qq7zfrv6hzo/Holiday%20ExtravaJamZa%202022.mp3?dl=0"
+target="_blank">Download Show (.mp3)&lt;/a>
+&lt;/p>
+&lt;h2 class="centered">The Songs&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Track&lt;/th>
+&lt;th>Title&lt;/th>
+&lt;th>Artist&lt;/th>
+&lt;th>Album&lt;/th>
+&lt;th>Length&lt;/th>
+&lt;th>Listen&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>01&lt;/td>
+&lt;td>Christmas in Hollis&lt;/td>
+&lt;td>Run-D.M.C.&lt;/td>
+&lt;td>A Very Special Christmas&lt;/td>
+&lt;td>3:00&lt;/td>
+&lt;td class="centered">&lt;a href="https://www.youtube.com/watch?v=OR07r0ZMFb8" target="_blank">🎶&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>02&lt;/td>
+&lt;td>I Want an Alien for Christmas&lt;/td>
+&lt;td>Fountains of Wayne&lt;/td>
+&lt;td>Out-of-State Plates&lt;/td>
+&lt;td>2:19&lt;/td>
+&lt;td class="centered">&lt;a href="https://www.youtube.com/watch?v=WyHE9gw6HdI" target="_blank">🎶&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>03&lt;/td>
+&lt;td>Nuttin' For Christmas&lt;/td>
+&lt;td>Smash Mouth &amp; Rosie O'Donnell&lt;/td>
+&lt;td>Another Rosie Christmas&lt;/td>
+&lt;td>2:40&lt;/td>
+&lt;td class="centered">&lt;a href="https://www.youtube.com/watch?v=nT3PFOuhZ70" target="_blank">🎶&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>04&lt;/td>
+&lt;td>Snow&lt;/td>
+&lt;td>Takashi Toyoda&lt;/td>
+&lt;td>Kankyō Ongaku: Japanese Ambient, Environmental &amp; New Age Music 1980 -1990&lt;/td>
+&lt;td>5:00&lt;/td>
+&lt;td class="centered">&lt;a href="https://www.youtube.com/watch?v=4yz-KEFosLo" target="_blank">🎶&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>05&lt;/td>
+&lt;td>Ebenezer's Carol&lt;/td>
+&lt;td>The Men That Will Not Be Blamed For Nothing&lt;/td>
+&lt;td>A Very Steampunk Christmas&lt;/td>
+&lt;td>3:00&lt;/td>
+&lt;td class="centered">&lt;a href="https://www.youtube.com/watch?v=8-3oYiqkAHU" target="_blank">🎶&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>06&lt;/td>
+&lt;td>Santa's A Fat Bitch&lt;/td>
+&lt;td>Insane Clown Posse&lt;/td>
+&lt;td>A Carnival Christmas EP&lt;/td>
+&lt;td>4:22&lt;/td>
+&lt;td class="centered">&lt;a href="https://www.youtube.com/watch?v=cd47CBbvhKg" target="_blank">🎶&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>07&lt;/td>
+&lt;td>Feliz Navidad&lt;/td>
+&lt;td>Los Straitjackets&lt;/td>
+&lt;td>'Tis the Season for Los Straitjackets&lt;/td>
+&lt;td>3:10&lt;/td>
+&lt;td class="centered">&lt;a href="https://www.youtube.com/watch?v=Bxnoc39YJsk" target="_blank">🎶&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>08&lt;/td>
+&lt;td>Auld Lang Syne&lt;/td>
+&lt;td>Girlschool&lt;/td>
+&lt;td>Christmas in Hell&lt;/td>
+&lt;td>3:21&lt;/td>
+&lt;td class="centered">&lt;a href="https://www.youtube.com/watch?v=OYna0WyJDQ0" target="_blank">🎶&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>09&lt;/td>
+&lt;td>A Sprig Of Holly On The Electric Turbine&lt;/td>
+&lt;td>Butcher Claus&lt;/td>
+&lt;td>Whine and Missingtoe&lt;/td>
+&lt;td>1:35&lt;/td>
+&lt;td class="centered">&lt;a href="https://www.youtube.com/watch?v=jV0hOjGQfuo" target="_blank">🎶&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10&lt;/td>
+&lt;td>Merry Christmas From The Family&lt;/td>
+&lt;td>Robert Earl Keen&lt;/td>
+&lt;td>Gringo Honeymoon&lt;/td>
+&lt;td>4:48&lt;/td>
+&lt;td class="centered">&lt;a href="https://www.youtube.com/watch?v=uwTb8bXWdVs" target="_blank">🎶&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>11&lt;/td>
+&lt;td>Home Alone Theme&lt;/td>
+&lt;td>August Burns Red&lt;/td>
+&lt;td>Christmas in Hell&lt;/td>
+&lt;td>3:48&lt;/td>
+&lt;td class="centered">&lt;a href="https://www.youtube.com/watch?v=OFixC3VYcwk" target="_blank">🎶&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>12&lt;/td>
+&lt;td>Joel The Lump Of Coal&lt;/td>
+&lt;td>The Killers&lt;/td>
+&lt;td>Don't Waste Your Wishes&lt;/td>
+&lt;td>3:59&lt;/td>
+&lt;td class="centered">&lt;a href="https://www.youtube.com/watch?v=RqZxJK0JN54" target="_blank">🎶&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>13&lt;/td>
+&lt;td>Good Night&lt;/td>
+&lt;td>SergeQuadrado&lt;/td>
+&lt;td>Freesound.com&lt;/td>
+&lt;td>0:24&lt;/td>
+&lt;td class="centered">&lt;a href="https://freesound.org/people/SergeQuadrado/sounds/654729/" target="_blank">🎶&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>14&lt;/td>
+&lt;td>Radio News Jingle&lt;/td>
+&lt;td>&amp;lt;Deleted User&amp;gt;&lt;/td>
+&lt;td>Freesound.com&lt;/td>
+&lt;td>0:27&lt;/td>
+&lt;td class="centered">&lt;a href="https://freesound.org/people/deleted_user_9618385/sounds/615164/" target="_blank">🎶&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>15&lt;/td>
+&lt;td>Frosty The Snowman&lt;/td>
+&lt;td>Chris Chaney, Kenny Aronoff, Steve 'Lips' Kudlow, Bumblefoot&lt;/td>
+&lt;td>We Wish You A Metal Xmas And A Headbanging New Year&lt;/td>
+&lt;td>4:06&lt;/td>
+&lt;td class="centered">&lt;a href="https://www.youtube.com/watch?v=cVzeScIoH8s" target="_blank">🎶&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>16&lt;/td>
+&lt;td>Yule Shoot Your Eye Out&lt;/td>
+&lt;td>Fall Out Boy&lt;/td>
+&lt;td>Island - This Is Christmas&lt;/td>
+&lt;td>3:42&lt;/td>
+&lt;td class="centered">&lt;a href="https://www.youtube.com/watch?v=SW3X7-gk8q0" target="_blank">🎶&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>17&lt;/td>
+&lt;td>Fairytale Of New York&lt;/td>
+&lt;td>The Pogues&lt;/td>
+&lt;td>If I Should Fall From Grace With God (2004 Remastered &amp; Expanded)&lt;/td>
+&lt;td>4:36&lt;/td>
+&lt;td class="centered">&lt;a href="https://www.youtube.com/watch?v=j9jbdgZidu8" target="_blank">🎶&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>18&lt;/td>
+&lt;td>Linus And Lucy&lt;/td>
+&lt;td>Vince Guaraldi Trio&lt;/td>
+&lt;td>A Charlie Brown Christmas&lt;/td>
+&lt;td>3:06&lt;/td>
+&lt;td class="centered">&lt;a href="https://www.youtube.com/watch?v=x6zypc_LhnM" target="_blank">🎶&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>19&lt;/td>
+&lt;td>Silent Night, Holy Night&lt;/td>
+&lt;td>Roy Rogers&lt;/td>
+&lt;td>A Rootin' Tootin' Christmas: A Hillbilly Christmas&lt;/td>
+&lt;td>2:43&lt;/td>
+&lt;td class="centered">&lt;a href="https://www.youtube.com/watch?v=nn0Qq0r4OSE" target="_blank">🎶&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>20&lt;/td>
+&lt;td>Chanukah Under the Stars&lt;/td>
+&lt;td>Fountains of Wayne&lt;/td>
+&lt;td>Out-of-State Plates&lt;/td>
+&lt;td>0:16&lt;/td>
+&lt;td class="centered">&lt;a href="https://www.youtube.com/shorts/uNmixRP20M4" target="_blank">🎶&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;/div>
+&lt;foot class="footer italic">
+&lt;p>
+Background courtesy of &lt;a href="https://www.vecteezy.com/vector-art/431014-seamless-background-with-elf-and-santa">Graphics RF on Vecteezy.com&lt;/a>
+&lt;/p></description></item><item><title>2023 Holiday ExtravaJAMza</title><link>https://sgpicone.github.io/projects/extravajamza-2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sgpicone.github.io/projects/extravajamza-2023/</guid><description>&lt;h3 id="1067-w-elf-fm-presents">106.7 W-ELF FM presents&lt;/h3>
+&lt;h2 id="the-2023-holiday-extravajamza">The 2023 Holiday ExtravaJAMza&lt;/h2>
+&lt;p>Celebrate the holidays with 106.7 W-ELF FM, the North Pole&amp;rsquo;s hottest radio station!&lt;/p>
+&lt;p>Listen with one of the links below!&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.dropbox.com/scl/fi/4h57os9iuxqhoqr6hg75p/Holiday-ExtravaJamZa-2023-Chapterized.m4b?rlkey=9yoelo8vqvsbs8p18c7st40y8&amp;amp;dl=0">Download show (Chapterized - for podcast apps)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.dropbox.com/scl/fi/5boe0svcvlt59npx7dqdd/Holiday-ExtravaJamZa-2023.mp3?rlkey=mb83pd2dcgp4egi11s2akkwwx&amp;amp;dl=0">Download show (.mp3)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://on.soundcloud.com/bvWS9">Stream on Soundcloud&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PL8pWTGZUw2a5VzvUIRbSpta7KvqrfwWAV">Skip the show - just listen to the tracks on YouTube&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>2024 Halloween JamBOOree</title><link>https://sgpicone.github.io/projects/jambooree-2024/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sgpicone.github.io/projects/jambooree-2024/</guid><description>&lt;h3 id="666-w-dmn-fm-presents">66.6 W-DMN FM presents&lt;/h3>
+&lt;h2 id="the-2024-halloween-jambooree">The 2024 Halloween JamBOOree&lt;/h2>
+&lt;p>Celebrate Halloween with DJ &amp;lt;Wilhelm Scream&amp;gt; at 66.6 W-DMN FM, the hottest radio station this side of the celestial plane!&lt;/p>
+&lt;p>Listen with one of the links below!&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.dropbox.com/scl/fi/t01ozrytoxpgc9mgpd3pz/2024-Halloween-JamBOOree-Chapterized.m4b?rlkey=sxsc6uy33706k3tqp4ohflrqi&amp;amp;dl=0">Download show (Chapterized - for podcast apps)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.dropbox.com/scl/fi/kvwcev4l2vi2266h295ly/2024-Halloween-JamBOOree-Chapterized.mp3?rlkey=5927k4rjw1b3uf3srkqppdc6n&amp;amp;dl=0">Download show (.mp3)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://on.soundcloud.com/spSEUiCx3Ca4wCqbA">Stream on Soundcloud&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Alodzuden</title><link>https://sgpicone.github.io/projects/df_journal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sgpicone.github.io/projects/df_journal/</guid><description>A command line microjournaling app inspired by Dwarf Fortress</description></item><item><title>Donkey Brains Certificate Generator</title><link>https://sgpicone.github.io/projects/donkey-brains/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sgpicone.github.io/projects/donkey-brains/</guid><description>A FREE custom certificate generator to exonerate you of all donkey brains.</description></item><item><title>Modifed US Level</title><link>https://sgpicone.github.io/projects/us-level/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sgpicone.github.io/projects/us-level/</guid><description>A modified version of the US Level developed by Tenpages</description></item><item><title>Slightly Ridiculous Bash Aliases</title><link>https://sgpicone.github.io/projects/bashaliases/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sgpicone.github.io/projects/bashaliases/</guid><description>&lt;p>&lt;a href="https://gist.github.com/sgpicone/1567a37c81dfc92dc07e26ce29027b49">My slightly absurd bash_aliases file&lt;/a>&lt;/p></description></item><item><title>VS Code Journal Workspace</title><link>https://sgpicone.github.io/projects/vscodejournal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sgpicone.github.io/projects/vscodejournal/</guid><description>A workspace template for VS Code to facilitate daily journaling.</description></item></channel></rss>

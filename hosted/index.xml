@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Hosteds on The Goose is Loose</title><link>https://sgpicone.github.io/hosted/</link><description>Recent content in Hosteds on The Goose is Loose</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://sgpicone.github.io/hosted/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://sgpicone.github.io/hosted/donkey-brains/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sgpicone.github.io/hosted/donkey-brains/</guid><description>&lt;!DOCTYPE html>
+&lt;html lang="en">
+&lt;head>
+&lt;meta charset="UTF-8">
+&lt;meta http-equiv="X-UA-Compatible" content="IE=edge">
+&lt;meta name="viewport" content="width=device-width, initial-scale=1.0">
+&lt;meta name="description" content="Generate your own certificate exonerating you of all donkey brains - FOR FREE!">
+&lt;link rel="stylesheet" href="styles.css">
+&lt;title>Donkey Brains Certificate Generator&lt;/title>
+&lt;/head>
+&lt;body class="container">
+&lt;div class="row">
+&lt;div class="form_area">
+&lt;h1 class="page-title">Donkey Brains Certificate Generator&lt;/h1>
+&lt;p class="explain">
+Generate the OFFICIAL paperwork EXONERATING you of all Donkey Brains
+&lt;/p>
+&lt;p class="explain">
+Includes a &lt;b>Seal of Excellence&lt;/b> and a textured paper background.
+&lt;/p>
+&lt;p class="explain">
+For printing, I'd recommend turning off the texture and seal
+and printing on actual textured paper.
+&lt;/p>
+&lt;p class="explain">
+You can get raised seals &lt;a
+href="https://www.amazon.com/Geographics-Gold-Embossed-Foil-20014/dp/B0007LTL52">here&lt;/a>
+(non-affiliated link).
+&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="examples/no-texture-no-seal.png">Example 1 - No texture, without seal&lt;/a>&lt;/li>
+&lt;li>&lt;a href="examples/no-texture-seal.png">Example 2 - No texture, with seal&lt;/a>&lt;/li>
+&lt;li>&lt;a href="examples/texture-no-seal.png">Example 3 - Textured, without seal&lt;/a>&lt;/li>
+&lt;li>&lt;a href="examples/texture-seal.png">Example 4 - Textured, with seal&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;br />
+&lt;div class="row">
+&lt;div class="form_area">
+&lt;h4 class="title">Setup Your Certificate&lt;/h4>
+&lt;form id="configurationForm" class="main_form">
+&lt;div class="row">
+&lt;div class="column">
+&lt;div class="form_group">
+&lt;label for="name" class="sub_title">Your Name:&lt;/label>
+&lt;input type="text" name="name" class="form_style" />
+&lt;/div>
+&lt;/div>
+&lt;div class="column">
+&lt;div class="form_group">
+&lt;label for="institution" class="sub_title">Institution:&lt;/label>
+&lt;input type="text" name="institution" class="form_style" />
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="row">
+&lt;div class="column">
+&lt;div class="form_group">
+&lt;label for="affliction" class="sub_title">Affliction:&lt;/label>
+&lt;input type="text" name="affliction" class="form_style" />
+&lt;/div>
+&lt;/div>
+&lt;div class="column">
+&lt;div class="form_group">
+&lt;label for="state" class="sub_title">Issuer:&lt;/label>
+&lt;input type="text" name="state" class="form_style" />
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="row">
+&lt;div class="column">
+&lt;div class="form_group">
+&lt;label for="signatureOneName" class="sub_title">First Signature Name:&lt;/label>
+&lt;input type="text" name="signatureOneName" class="form_style" />
+&lt;/div>
+&lt;/div>
+&lt;div class="column">
+&lt;div class="form_group">
+&lt;label for="signatureOnePosition" class="sub_title">First Signature Occupation:&lt;/label>
+&lt;input type="text" name="signatureOnePosition" class="form_style" />
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="row">
+&lt;div class="column">
+&lt;div class="form_group">
+&lt;label for="signatureTwoName" class="sub_title">Second Signature Name:&lt;/label>
+&lt;input type="text" name="signatureTwoName" class="form_style" />
+&lt;/div>
+&lt;/div>
+&lt;div class="column">
+&lt;div class="form_group">
+&lt;label for="signatureTwoPosition" class="sub_title">Second Signature Occupation:&lt;/label>
+&lt;input type="text" name="signatureTwoPosition" class="form_style" />
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="row">
+&lt;div class="column">
+&lt;div class="form_group checkbox-wrapper-32">
+&lt;label for="includeSeal" class="sub_title">Include Seal of Excellence&lt;/label>
+&lt;input type="checkbox" name="includeSeal" class="form_style" />
+&lt;svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="M 10 10 L 90 90" stroke="#000" stroke-dasharray="113" stroke-dashoffset="113">
+&lt;/path>
+&lt;path d="M 90 10 L 10 90" stroke="#000" stroke-dasharray="113" stroke-dashoffset="113">
+&lt;/path>
+&lt;/svg>
+&lt;/div>
+&lt;/div>
+&lt;div class="column">
+&lt;div class="form_group checkbox-wrapper-32">
+&lt;label for="includeTexture" class="sub_title">Include Texture&lt;/label>
+&lt;input type="checkbox" name="includeTexture" class="form_style" />
+&lt;svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+&lt;path d="M 10 10 L 90 90" stroke="#000" stroke-dasharray="113" stroke-dashoffset="113">
+&lt;/path>
+&lt;path d="M 90 10 L 10 90" stroke="#000" stroke-dasharray="113" stroke-dashoffset="113">
+&lt;/path>
+&lt;/svg>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/form>
+&lt;button type="button" class="btn" onclick="createCertificate()">Generate!&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/body>
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js">&lt;/script>
+&lt;script src="generatorScript.js">&lt;/script>
+&lt;script>
+const form = document.forms[0];
+function updateConfig() {
+const config = {
+name: form.elements.name.value,
+institution: form.elements.institution.value,
+affliction: form.elements.affliction.value,
+state: form.elements.state.value,
+includeSeal: form.elements.includeSeal.checked,
+includeTexture: form.elements.includeTexture.checked,
+signatureOne: {
+name: form.elements.signatureOneName.value,
+position: form.elements.signatureOnePosition.value
+},
+signatureTwo: {
+name: form.elements.signatureTwoName.value,
+position: form.elements.signatureTwoPosition.value
+},
+};
+return config;
+}
+function createCertificate() {
+const config = updateConfig();
+saveCertificate(config);
+}
+function updatePreview() {
+const config = updateConfig();
+const preview = previewCertificate(config);
+}
+function initForm() {
+form.elements.name.value = defaultConfig.name;
+form.elements.institution.value = defaultConfig.institution;
+form.elements.affliction.value = defaultConfig.affliction;
+form.elements.state.value = defaultConfig.state;
+form.elements.includeSeal.checked = defaultConfig.includeSeal;
+form.elements.includeTexture.checked = defaultConfig.includeTexture;
+form.elements.signatureOneName.value = defaultConfig.signatureOne.name;
+form.elements.signatureOnePosition.value = defaultConfig.signatureOne.position;
+form.elements.signatureTwoName.value = defaultConfig.signatureTwo.name;
+form.elements.signatureTwoPosition.value = defaultConfig.signatureTwo.position;
+}
+initForm();
+&lt;/script>
+&lt;/html></description></item><item><title/><link>https://sgpicone.github.io/hosted/us-level/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sgpicone.github.io/hosted/us-level/</guid><description>&lt;!DOCTYPE html>
+&lt;html>
+&lt;head>
+&lt;meta http-equiv="refresh" content="0; url='us.html'" />
+&lt;/head>
+&lt;body>
+&lt;p>&lt;a href="us.html">Redirecting&lt;/a>...&lt;/p>
+&lt;/body>
+&lt;/html></description></item></channel></rss>
